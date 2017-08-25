@@ -1,6 +1,5 @@
 package com.nku.csc260.SeventhWeek.Assign23;
 
-import java.util.Arrays;
 
 /**
  * @author Arseny
@@ -10,14 +9,22 @@ public class Test {
 
     public static void main (String[] args) {
         Course testCourse = new Course("Test Course");
+        
+        System.out.printf("%s has %d students\n",testCourse.getCourseName(), testCourse.getNumberOfStudents() );
 
-        testCourse.addStudent("John Cena");
-        testCourse.addStudent("Kappa Pride");
-        testCourse.addStudent("Pepe Kek");
+        for (int i = 0; i < testCourse.getStudents().length; i++) {
+        	System.out.println(testCourse.getStudents()[i]);
+        }
+        
+        testCourse.dropStudent("First student");
+        
+        System.out.println(" // ");
+        
+        System.out.printf("%s has %d students\n",testCourse.getCourseName(), testCourse.getNumberOfStudents() );
 
-        testCourse.dropStudent("John Cena");
-
-        System.out.println(Arrays.toString(testCourse.getStudents()));
+        for (int i = 0; i < testCourse.getStudents().length; i++) {
+        	System.out.println(testCourse.getStudents()[i]);
+        }
     }
 
 }
