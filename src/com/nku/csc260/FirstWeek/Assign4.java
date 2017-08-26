@@ -3,7 +3,7 @@ package com.nku.csc260.FirstWeek;
 import java.util.Scanner;
 
 /**
- * 4rd assignment of the 1st week, of the CSC 260 Course at BKU. Goal is to create an app that asks for user input of pounds, and
+ * 4rd assignment of the 1st week, of the CSC 260 Course at NKU. Goal is to create an app that asks for user input of pounds, and
  * converts them to Kilograms
  *
  * Page 70 #2.4.

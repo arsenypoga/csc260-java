@@ -3,7 +3,7 @@ package com.nku.csc260.FifthWeek;
 import java.util.Scanner;
 
 /**
- * 17th assignment of 5th week, of the CSC 260 Course at BKU. Goal: Wtite program, that promps user for number input,
+ * 17th assignment of 5th week, of the CSC 260 Course at NKU. Goal: Wtite program, that promps user for number input,
  * then sorts it using inverse selection sort
  *
  * @author Arseny

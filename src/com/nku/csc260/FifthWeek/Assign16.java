@@ -6,7 +6,7 @@ import java.util.Scanner;
 import static java.lang.System.exit;
 
 /**
- * 16th assignment of 5th week, of the CSC 260 Course at BKU. Goal: Create a program, that promps user to enter 10
+ * 16th assignment of 5th week, of the CSC 260 Course at NKU. Goal: Create a program, that promps user to enter 10
  * numbers, and finds the smallest number
  *
  * @author Arseny

@@ -31,7 +31,7 @@ public void dropStudent(String studentName) {
 					newArr.add(name);
 			}
 				
-			this._students = newArr.stream().toArray(String[]::new);
+			this._students = newArr.toArray(new String[0]);
 		}
 		
 		

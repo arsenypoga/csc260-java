@@ -4,6 +4,9 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
+ * 21st assignment of 6th week, of the CSC 260 Course at NKU.
+ * Assignment link: http://sappho.nku.edu/~frank/CSC260/Assn/Assignment21.pdf
+ *
  * @author Arseny
  * @since 8/24/2017
  */

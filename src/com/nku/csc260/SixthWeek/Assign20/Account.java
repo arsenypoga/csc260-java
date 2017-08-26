@@ -13,15 +13,14 @@ public class Account {
     private double _annualInterestRate = 0;
     private Date _dateCreated = new Date();
 
-    Account () {
+    public Account () {
 
     }
 
-    Account(int id, double balance) {
+    public Account(int id, double balance) {
         this._id = id;
         this._balance = balance;
     }
-
 
     public double getMonthlyInterest() {
         return this._balance * ((this._annualInterestRate / 100) / 12);

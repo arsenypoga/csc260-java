@@ -3,7 +3,7 @@ package com.nku.csc260.FirstWeek;
 import java.util.Scanner;
 
 /**
- * 3rd assignment of the 1st week, of the CSC 260 Course at BKU. Goal: to create a program that asks for user input of Fahrenheit and
+ * 3rd assignment of the 1st week, of the CSC 260 Course at NKU. Goal: to create a program that asks for user input of Fahrenheit and
  * converts it to Celsius
  *
  * Page 69 #2.1.

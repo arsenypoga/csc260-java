@@ -3,7 +3,7 @@ package com.nku.csc260.SecondWeek;
 import java.util.Scanner;
 
 /**
- * 5th assignment of the 2nd week, of the CSC 260 Course at BKU. Goal: Create an app that asks for the input of the weight
+ * 5th assignment of the 2nd week, of the CSC 260 Course at NKU. Goal: Create an app that asks for the input of the weight
  * in pounds, and height in inches, then converts it to the SI system orf Units, and outputs the BMI
  *
  * Page 72 #2.14.

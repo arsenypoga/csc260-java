@@ -3,7 +3,7 @@ package com.nku.csc260.SecondWeek;
 import java.util.Scanner;
 
 /**
- * 6th assignment of the 2nd week, of the CSC 260 Course at BKU. Goal: to create an app that asks for the a,b and c of
+ * 6th assignment of the 2nd week, of the CSC 260 Course at NKU. Goal: to create an app that asks for the a,b and c of
  * the function, and outputs if the function has 2, 1, or no real roots
  *
  * Page 108 #3.1.

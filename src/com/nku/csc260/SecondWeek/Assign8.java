@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * 8th assignment of the 2nd week, of the CSC 260 Course at BKU. Goal: To convert letter grade to a number
+ * 8th assignment of the 2nd week, of the CSC 260 Course at NKU. Goal: To convert letter grade to a number
  *
  * @author Arseny
  * @since 8/23/2017

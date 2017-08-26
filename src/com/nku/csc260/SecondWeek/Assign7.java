@@ -3,7 +3,7 @@ package com.nku.csc260.SecondWeek;
 import java.util.Scanner;
 
 /**
- * 7th assignment of the 2nd week, of the CSC 260 Course at BKU. Goal: Create an app that asks for exchange rate
+ * 7th assignment of the 2nd week, of the CSC 260 Course at NKU. Goal: Create an app that asks for exchange rate
  * between dollars to RMB, then prompts user about the action he wants to perform - convert RMB to dollars, or vice versa
  * Then it prints the conversion.
  *

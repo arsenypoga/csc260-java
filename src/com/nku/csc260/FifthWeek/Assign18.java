@@ -3,7 +3,7 @@ package com.nku.csc260.FifthWeek;
 import java.util.Scanner;
 
 /**
- * 18th assignment of 5th week, of the CSC 260 Course at BKU. Goal: prompt user to input numbers row by row, then sum each
+ * 18th assignment of 5th week, of the CSC 260 Course at NKU. Goal: prompt user to input numbers row by row, then sum each
  * column
  *
  * @author Arseny

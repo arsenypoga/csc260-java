@@ -1,7 +1,7 @@
 package com.nku.csc260.FirstWeek;
 
 /**
- * 2nd assignment of 1st week, of the CSC 260 Course at BKU. Goal: to create an app that gets an area fromm the static numbers.
+ * 2nd assignment of 1st week, of the CSC 260 Course at NKU. Goal: to create an app that gets an area fromm the static numbers.
  *
  * Page 31 #1.9.
  *
