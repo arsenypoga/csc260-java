@@ -15,18 +15,18 @@ public class Assign8 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        String letterGrade;
-        String[] LETTER_GRADE_ARRAY = new String[] {"A", "B", "C", "D", "F"};
+        char letterGrade;
+        char [] LETTER_GRADE_ARRAY = new char[] {'A', 'B', 'C', 'D', 'F'};
         int[] NUMBER_GRADE_ARRAY = new int[] {4, 3, 2, 1, 0};
 
         System.out.print("Enter a letter grade: ");
-        letterGrade = input.nextLine().toUpperCase();
+        letterGrade = input.next().toUpperCase().charAt(0);
 
         System.out.println(getLetterGrade(LETTER_GRADE_ARRAY, NUMBER_GRADE_ARRAY, letterGrade));
 
     }
 
-    public static String getLetterGrade(String[] gradeArray, int[] numberArray, String letterGrade) {
+    public static String getLetterGrade(char[] gradeArray, int[] numberArray, char letterGrade) {
         // Converts array of items, to a List object, that has desired .contains method
         if(Arrays.asList(gradeArray).contains(letterGrade)) {
             return MessageFormat.format("The numeric value for grade {0} is {1}",letterGrade,

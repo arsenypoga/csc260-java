@@ -35,7 +35,7 @@ public class Assign11 {
             data = input.nextDouble();
         }
 
-        System.out.printf("Total Income: $%f \n Total bills: $%f", sum, Math.abs(bills));
+        System.out.printf("Total Income: $%.2f \n Total bills: $%.2f", sum, Math.abs(bills));
 
     }
 
